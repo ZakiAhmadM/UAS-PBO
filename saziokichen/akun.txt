@@ -1,0 +1,3 @@
+admin,asbes,ADMIN
+admin2,asep,ADMIN
+asep,123,KARYAWAN
